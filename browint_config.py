@@ -1,0 +1,7 @@
+conf_directory = "/conf_data"
+shadow_directory = "/shadows"
+prefix_to_shadow_file = "exp_shadow_"
+prefix_to_save_file = "exp_save_"
+prefix_to_error_file = "exp_error_" 
+path_to_coursore_colors = "data/coursore_color.conf"
+path_to_colors = "data/color.conf"
